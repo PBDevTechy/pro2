@@ -1,4 +1,3 @@
-
 body {
   color: black;
   font-family: "Lato";
@@ -51,6 +50,26 @@ form {
 }
 
 label {
+  font-weight: bold;
+}
+
+img {
+  width: 150px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+.motto {
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+}
+
+.text {
+  font-size: 13px;
+  color: green;
   font-weight: bold;
 }
 
